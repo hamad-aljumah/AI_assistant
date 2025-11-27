@@ -95,7 +95,6 @@ Open your browser: **http://localhost**
 ```env
 OPENAI_API_KEY=your_key_here
 OPENAI_MODEL=gpt-4
-DATABASE_URL=postgresql://postgres:postgres@database:5432/ai_assistant
 ```
 
 ## 📊 Tech Stack
